@@ -4,3 +4,4 @@
 1. `git clone` this repo
 2. to start website `cd sikopi-web/web`
 3. run `php artisan serve`
+4. open `http://127.0.0.1:8000`
